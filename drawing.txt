@@ -1,0 +1,6 @@
+
+Let's create a rainbow
+   steps to draw a rainbow-
+         [a] Draw 7 semicircle : With same center and diffrent radii
+         [b] Colour them as VIBGYOR
+Wow you made a rainbow!!
