@@ -4,3 +4,9 @@ Let's create a rainbow
          [a] Draw 7 semicircle : With same center and diffrent radii
          [b] Colour them as VIBGYOR
 Wow you made a rainbow!!
+Another drawing of a square
+    steps to draw a square-
+          [a] Draw 2 horizontal and 2 vertical straight lines
+          [b]Join the vertex of corresponding lines
+          [c]Colour the box with blue
+ Good job :)
